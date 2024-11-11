@@ -1,0 +1,5 @@
+django
+django-ninja
+django-ninja-extra
+django-cors-headers
+djangorestframework
